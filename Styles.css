@@ -1,3 +1,39 @@
-p {
-    color: red;
+.header-class{
+              display: flex;
+              background-color: #1f2937;
+              color: white;
+              font-size: 24px;
+              
+
+}
+
+.header-attached-class {
+                        display: flex;
+                        background-color: #1f2937;
+                        
+}
+
+.sub-text-class {
+                 font-size: 18px;
+                 color: #E5E7EB;
+}
+
+button {
+        background-color: #3882f6;
+        color: white;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
 }
