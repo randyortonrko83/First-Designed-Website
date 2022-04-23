@@ -3,7 +3,7 @@
               background-color: #1f2937;
               color: white;
               font-size: 24px;
-              justify-content: space-between;
+              justify-content: space-around;
               
 
 }
@@ -11,10 +11,14 @@
 .header-attached-class {
                         display: flex;
                         background-color: #1f2937;
-                        flex-direction: column;
+                        flex-direction: row;
+                        
                         
 }
 
+.header-img-correction-class{
+                             
+}
 .sub-text-class {
                  font-size: 18px;
                  color: #E5E7EB;
@@ -24,6 +28,8 @@ button {
         background-color: #3882f6;
         color: white;
         padding: 5px;
+        width: 110px;
+        border-radius: 8px;
 }
 
 h1 {
@@ -35,9 +41,10 @@ h1 {
 ul {
     list-style-type: none;
     display: flex;
-    gap: 10px;
+    gap: 20px;
     font-size: 18px;
     color: #E5E7EB;
+    align-items: center;
 }
 
 li {
@@ -45,3 +52,12 @@ li {
     flex-direction: column;
 }
 
+img {
+    max-width: 300px;
+    background-color: #1f2937;
+    
+}
+
+body {
+      margin: 0px;
+}

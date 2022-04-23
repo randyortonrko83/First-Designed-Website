@@ -8,3 +8,4 @@ v3 - replaced some headings with paragraphs, along with blockquote, updated log 
 v4 - added styles.css for styling html, for testing the html used this version to style p element to red color to see if the css stylesheet works, will revert back to normal on version 5, updated log accordingly
 v5 - reverted the red color and added style to the header, updated log accordingly
 v6 - sucessfully aligned hero header satisfactorily and updated log need more styling
+V7 - done header perfectly and updated log
