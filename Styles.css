@@ -8,21 +8,19 @@
 
 }
 
-.header-attached-class {
-                        display: flex;
-                        background-color: #1f2937;
-                        flex-direction: row;
-                        
-                        
+.hero-class {
+             display: flex;
+             background-color: #1f2937;
 }
 
-.header-img-correction-class{
-                             
+p {
+    color: #f9faf8;
 }
-.sub-text-class {
-                 font-size: 18px;
-                 color: #E5E7EB;
-}
+
+
+
+
+
 
 button {
         background-color: #3882f6;
@@ -36,6 +34,7 @@ h1 {
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
+    background-color: #1f2937;
 }
 
 ul {
