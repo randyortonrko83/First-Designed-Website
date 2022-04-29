@@ -10,3 +10,4 @@ v5 - reverted the red color and added style to the header, updated log according
 v6 - sucessfully aligned hero header satisfactorily and updated log need more styling
 V7 - done header perfectly and updated log
 v8 - deleted class due to confusion
+v9 - thought about deleting div classes from body but added span classes to make two different sets of classes sit aside each other inline and it worked, logging in the idea in readme and updated in html and styles

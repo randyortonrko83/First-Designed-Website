@@ -13,6 +13,12 @@
              background-color: #1f2937;
 }
 
+.hero-top {
+           display: flex;
+           background-color: #1f2937;
+           flex-direction: column;
+}
+
 p {
     color: #f9faf8;
 }
