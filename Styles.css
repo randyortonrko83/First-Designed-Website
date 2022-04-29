@@ -37,9 +37,44 @@ p {
     color: #f9faf8;
 }
 
+h2 {
+    text-align: center;
+}
 
+.css-rounded {
+              display: flex;
+              flex-direction: row;
+              justify-content: center;
+              gap: 25px;
+              
+}
 
+.css-rounded div {
+              display: flex;
+              color: #3882f6;
+              flex: 1 0 2;
+              width: 100px;
+              height: 100px;
+              background-color:white;
+              border: #3882f6 solid 3px;
+              border-radius: 10px;
+              
+              }
 
+.below-css-rounded {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    gap: 30px;
+                    text-align: center;
+}
+
+.below-css-rounded div {
+                    display: flex;
+                    flex: 1 0 2;
+                    width: 100px;
+                    height: 100px;
+}
 
 
 button {
