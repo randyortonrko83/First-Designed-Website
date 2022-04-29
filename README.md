@@ -13,3 +13,4 @@ v8 - deleted class due to confusion
 v9 - thought about deleting div classes from body but added span classes to make two different sets of classes sit aside each other inline and it worked, logging in the idea in readme and updated in html and styles
 v10 - succesfully incorporated span class and completed the headers, ran through a problem with classes but sorted it out by assigning an id, updated log
 v11 - successfully completed the "some random nformation part", used flexbox and growing flexboxes to achieve the results, updated the log
+v12 - blockquote edit
