@@ -11,12 +11,26 @@
 .hero-class {
              display: flex;
              background-color: #1f2937;
+            
+
 }
 
 .hero-top {
            display: flex;
            background-color: #1f2937;
            flex-direction: column;
+           padding-left: 120px;
+           padding-right: 50px;
+           padding-bottom: 100px;
+           padding-top: 30px;
+           text-align: left;
+}
+
+#img {
+      display: flex;
+      padding-right: 150px;
+      padding-top: 40px;
+      padding-bottom: 100px;
 }
 
 p {
@@ -41,6 +55,7 @@ h1 {
     font-weight: extra-bold;
     color: #f9faf8;
     background-color: #1f2937;
+    margin: 0px;
 }
 
 ul {
@@ -58,7 +73,7 @@ li {
 }
 
 img {
-    max-width: 300px;
+    max-width: 400px;
     background-color: #1f2937;
     
 }

@@ -11,3 +11,4 @@ v6 - sucessfully aligned hero header satisfactorily and updated log need more st
 V7 - done header perfectly and updated log
 v8 - deleted class due to confusion
 v9 - thought about deleting div classes from body but added span classes to make two different sets of classes sit aside each other inline and it worked, logging in the idea in readme and updated in html and styles
+v10 - succesfully incorporated span class and completed the headers, ran through a problem with classes but sorted it out by assigning an id, updated log
