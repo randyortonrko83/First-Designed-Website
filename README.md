@@ -15,3 +15,4 @@ v10 - succesfully incorporated span class and completed the headers, ran through
 v11 - successfully completed the "some random nformation part", used flexbox and growing flexboxes to achieve the results, updated the log
 v12 - blockquote edit
 v13 - done quote section with blockquote tag and made the tag margin 0 to accomodate the quote author nearby the quote to be written updated log
+v14 - reached a big milestone, completed the call to action section, applied border radius to some of the buttons and the interfaces, added new classes to the buttons because there are two different buttons which caused conflicts for color, updated log

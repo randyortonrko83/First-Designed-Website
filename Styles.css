@@ -102,12 +102,59 @@ blockquote {
            font-weight: bold;
            
 }
-button {
+
+
+.ctc-class .ctc-class-box {
+            display: flex;
+            background-color: #3882f6;
+            padding: 20px;
+            padding-top: 35px;
+            padding-bottom: 35px;
+            gap: 100px;
+            justify-content: center;
+            margin: 50px;
+            margin-left: 140px;
+            margin-right: 140px;
+            margin-top: 70px;
+            border-radius: 7px;
+}
+
+.ctc-class .ctc-class-box-1 {
+                             display: flex;
+                             flex-direction: column;
+}
+
+.footer-p {
+           font-size: 18px;
+           color: #E5E7EB;
+           margin: 0px;
+}
+
+.footer-h3 {
+            font-size: 20px;
+            color: #f9faf8;
+            margin: 0px;
+}
+
+.footer-button {
+                height: 30px;
+                width: 115px;
+                align-self: center;
+                background-color: #3882f6;
+                color: #f9faf8;
+                border-color: #f9faf8;
+                border-radius: 8px;
+                border: solid;
+
+}
+
+.hero-button {
         background-color: #3882f6;
         color: white;
         padding: 5px;
         width: 110px;
         border-radius: 8px;
+        border: #1f2937 solid ;
 }
 
 h1 {
