@@ -12,7 +12,8 @@ V7 - done header perfectly and updated log
 v8 - deleted class due to confusion
 v9 - thought about deleting div classes from body but added span classes to make two different sets of classes sit aside each other inline and it worked, logging in the idea in readme and updated in html and styles
 v10 - succesfully incorporated span class and completed the headers, ran through a problem with classes but sorted it out by assigning an id, updated log
-v11 - successfully completed the "some random nformation part", used flexbox and growing flexboxes to achieve the results, updated the log
+v11 - successfully completed the "some random information part", used flexbox and growing flexboxes to achieve the results, updated the log
 v12 - blockquote edit
 v13 - done quote section with blockquote tag and made the tag margin 0 to accomodate the quote author nearby the quote to be written updated log
 v14 - reached a big milestone, completed the call to action section, applied border radius to some of the buttons and the interfaces, added new classes to the buttons because there are two different buttons which caused conflicts for color, updated log
+v15 - completed footer and changed body font to roboto according to odin project specifications and minor tweaks to ctc sections, completed the website successfully!
