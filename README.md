@@ -14,3 +14,4 @@ v9 - thought about deleting div classes from body but added span classes to make
 v10 - succesfully incorporated span class and completed the headers, ran through a problem with classes but sorted it out by assigning an id, updated log
 v11 - successfully completed the "some random nformation part", used flexbox and growing flexboxes to achieve the results, updated the log
 v12 - blockquote edit
+v13 - done quote section with blockquote tag and made the tag margin 0 to accomodate the quote author nearby the quote to be written updated log

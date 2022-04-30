@@ -80,16 +80,27 @@ blockquote {
              font-size: 36px;
              font-style: italic;
              color: #1f2937;
+             margin: 0px;
 }
 
 .quote-class {
               display: flex;
               flex-direction: column;
               background-color: #E5E7EB;
+              margin: 0px;
+              padding-top: 90px;
+              padding-left: 210px;
+              padding-right: 200px;
+              padding-bottom: 20px;
 }
 
 .by-class {
            display: flex;
+           justify-content: flex-end;
+           padding-right: 50px;
+           padding-bottom: 50px;
+           font-weight: bold;
+           
 }
 button {
         background-color: #3882f6;
