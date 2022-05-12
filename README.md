@@ -17,3 +17,8 @@ v12 - blockquote edit
 v13 - done quote section with blockquote tag and made the tag margin 0 to accomodate the quote author nearby the quote to be written updated log
 v14 - reached a big milestone, completed the call to action section, applied border radius to some of the buttons and the interfaces, added new classes to the buttons because there are two different buttons which caused conflicts for color, updated log
 v15 - completed footer and changed body font to roboto according to odin project specifications and minor tweaks to ctc sections, completed the website successfully!
+v16 - there was some error applying css on git, seems like i made mistake on case-sensitive css, corrected the error and published the website and updated the log.
+
+website link: https://randyortonrko83.github.io/First-Designed-Website/
+
+End of Log
